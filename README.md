@@ -1,4 +1,4 @@
-# monster-rolodex
+# Monster Rolodex
 A simple React App practing the fundamentals of React using monsters. 
 
 ## Run 
