@@ -1,6 +1,8 @@
 # Monster Rolodex
 A simple React App practing the fundamentals of React using monsters. 
 
+<img src="monstersDemo.gif" alt="demonstration" width="400" height="150" />
+
 ## Run 
 
 ### 1.`npm install`
